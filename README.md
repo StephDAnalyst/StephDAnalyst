@@ -1,25 +1,29 @@
-👋 Hello! I'm Attamah, an ambitious data analyst with a passion for driving meaningful insights through data analytics. My journey through analytics has led me to create a spectrum of solutions benefiting both individuals and businesses.
+👋 Hello! I'm Attamah, a Data Practitioner passionate about Data Engineering, Governance, and Streaming Solutions.
+My journey started in analytics, but I quickly transitioned into data engineering, working extensively with ETL pipelines, real-time streaming, data governance, and cloud technologies. I have hands-on experience with Azure Data Services, Power BI, Databricks, and Purview—ensuring data is not only processed efficiently but also governed securely.
 
 🚀 My Experience:
-- 💼 Remote Power BI Developer: Conducted in-depth data analysis and visualization, integrating diverse data sources and ensuring smooth usability of Power BI solutions. Documented development processes for knowledge sharing and future reference.
-- 💼 Virtual Intern @ PWC: Utilized data mining techniques to uncover patterns within large datasets, identifying business opportunities and risks. Created interactive dashboards with Power BI to visualize key performance indicators.
-- 💼 Personal Projects: Built on-premise databases, scraped data for business insights, and aggregated Google Scholar data to streamline academic research and decision-making processes.
-- 💼 E-commerce Analytics: Crafted comprehensive analytics reports for major e-commerce stores in Nigeria, aiding informed decision-making for enthusiasts.
-- 💼 Pro Bono Training: Volunteered with Datazoneplus to educate underprivileged youth on integrating analytical and simulation tools into their respective fields.
-- 💼 Collaborations with Ph.D. Candidates: Assisted researchers by building mathematical models using analytical tools like Matlab, leveraging my problem-solving skills.
+🔹 Data Engineering:
 
-🌍 I'm Open to Opportunities:
-- 🌟 Seeking remote work opportunities in data analytics.
-- 📊 Passionate about using data analysis to help individuals and businesses make informed decisions.
+Built scalable ETL pipelines for structured and unstructured data.
+Ingested, transformed, and stored data using Azure Data Factory, Azure Synapse, and Data Lake.
+Worked with real-time streaming using Azure Event Hubs, Stream Analytics, and Power BI Service.
+🔹 Data Governance & Purview:
 
+Implemented data lineage, access control, and classification strategies.
+Used Azure Purview to establish metadata management and compliance.
+🔹 Power BI & Analytics:
+
+Designed and optimized Power BI reports integrated with cloud and on-prem databases.
+Built enterprise data models ensuring performance and scalability.
+🔹 Cloud & DevOps:
+
+Managed Azure resources, RBAC roles, and ACL permissions for secure data access.
+Worked with GitHub Actions & CI/CD for data pipeline automation.
+🌍 I'm Open to:
+🚀 Remote roles in Data Engineering & Governance
+🛠️ Collaborating on Azure-based data projects
+📢 Speaking engagements on cloud data governance & engineering best practices
 🔗 Let's Connect:
-- 📧 Email: attamahstephnie@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/attamahchikaodili/
-- 🐦 Twitter: @AttamahChikaod3
-
-#dataanalytics #dataviz #remotework #datadriven #powerbi #sql #Python #R #dataanalysis #analytics #businessintelligence
-
-
-
-
-
+📧 Email: attamahstephnie@gmail.com
+💼 LinkedIn: linkedin.com/in/attamahchikaodili
+🐦 Twitter: @AttamahChikaod3
